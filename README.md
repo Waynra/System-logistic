@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-# 🚛 Sistem Manajemen Logistik (PT Rendexindo Pratama Ekspress)
-
-## 📌 Gambaran Umum
-Proyek ini adalah **Sistem Manajemen Logistik (SML)** komprehensif yang dikembangkan untuk menyederhanakan operasi logistik, pelacakan pengiriman, kontrol inventaris, dan manajemen pengantaran untuk **PT Rendexindo Pratama Ekspress**. Sistem ini dibangun sebagai bagian dari proyek akhir studi S1 dalam **Sistem Informasi**, dengan fokus pada optimalisasi efisiensi alur kerja dan digitalisasi proses logistik manual.
+Proyek ini adalah Sistem Manajemen Logistik (SML)komprehensif yang dikembangkan untuk menyederhanakan operasi logistik, pelacakan pengiriman, kontrol inventaris, dan manajemen pengantaran untuk **PT Rendexindo Pratama Ekspress**. Sistem ini dibangun sebagai bagian dari proyek akhir studi S1 dalam **Sistem Informasi**, dengan fokus pada optimalisasi efisiensi alur kerja dan digitalisasi proses logistik manual.
 
 ## ⚙️ Fitur Utama
 
